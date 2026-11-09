@@ -1,0 +1,17 @@
+# Cartella di compilazione Maven
+target/
+
+# Log e file temporanei del sistema
+*.log
+*.tmp
+
+# Configurazioni di NetBeans
+nbproject/private/
+build/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# File del sistema operativo
+.DS_Store
+Thumbs.db
